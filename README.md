@@ -2,3 +2,4 @@
 IOT projects
 - ESP8266
     - Blink
+    - PIR sensor
